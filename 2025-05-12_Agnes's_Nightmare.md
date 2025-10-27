@@ -19,6 +19,6 @@ and then she woke up again.
 
 In reality — in a hospital bed, after an alcohol-induced coma.
 
----
+
 
 *VaadMyst*
