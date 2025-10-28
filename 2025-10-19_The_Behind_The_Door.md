@@ -99,7 +99,7 @@ You always could.
 
 ---
 
-# Suicide Note
+Suicide Note
 
 Forgive me.  
 I failed you.  
