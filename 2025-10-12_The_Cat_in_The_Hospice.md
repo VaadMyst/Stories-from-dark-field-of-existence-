@@ -50,8 +50,8 @@ She managed to catch only an old children’s rhyme before everything went silen
 “Wer hat Angst vor dem schwarzen Mann?”
 — “Niemand.”
 “Und wenn er aber kommt?”
-— “Dann laufen wir davon.” **
-davon.”
+— “Dann laufen wir davon.”
+davon.”***
 
 “Who’s afraid of the Black Man?”
 — “No one.”
@@ -104,7 +104,7 @@ So, my time hasn’t come yet, she thought wearily — and drifted into sleep.
  
 VaadMyst 
  
-** This is a traditional German children’s rhyme.
+*** This is a traditional German children’s rhyme.
 
 P.S. It was only after I wrote this story that I learned about a cat named Oscar. He lived in a hospice in the U.S., and according to medical staff, he could accurately predict the death of patients — he would come to them the day before and stay until the very end.
 You can read more about it in the article in the New England Journal of Medicine:
