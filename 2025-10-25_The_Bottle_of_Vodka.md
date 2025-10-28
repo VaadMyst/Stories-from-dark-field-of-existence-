@@ -5,7 +5,7 @@
 
 —
 
-🖋 Preface
+Preface
 This story contains no fiction — only a composite truth about a time when life was worth less than a bottle.
 This is not a tale about murder so much as about how everything human dies inside a person.
 
@@ -69,5 +69,4 @@ He lay there, staring at his hands in bewilderment, trying to remember what had 
 
 
 VaadMyst
-25.10.25
 
