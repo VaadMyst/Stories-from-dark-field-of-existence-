@@ -7,7 +7,7 @@ Not recommended for readers who may be sensitive to these topics.
 
 ⸻
 
-I know you’re there, Vlad.
+I know you’re there, [Name].
 Tired.
 Sitting on the floor, your back against the door.
 
@@ -53,7 +53,7 @@ Because you don’t want to inconvenience anyone, do you?
 Even before the final step, you think:
 “What will people say?”
 
-You can’t laugh sincerely, Vlad.
+You can’t laugh sincerely, [Name].
 Or feel joy.
 Or feel happy.
 
@@ -78,7 +78,7 @@ and you know what?
 I’m impressed.
 I liked it.
 
-And now, Vlad… turn around.
+And now, [Name]… turn around.
 Look.
 See?
 I’ve opened the door a little.
@@ -96,9 +96,13 @@ You always could.
 
 The choice is yours.
 
+
 ⸻
 
-Suicide Note
+                                                
+                                                Suicide Note
+
+
 
 Forgive me.
 I failed you.
@@ -130,4 +134,5 @@ I never thought I’d be the one writing this… my suicide note.
 Please, forgive me.
 
 
-Vladislav
+[Put your name here]
+
